@@ -13,6 +13,6 @@ If that doesn't work, just clone this project (or download it from the releases 
 
 ## Disclaimer
 
-[Nova](https://panic.com/nova) is the upcoming new editor from [Panic Inc](https://panic.com)., currently in private beta development.
+[Nova](https://panic.com/nova) is a new editor from [Panic Inc](https://panic.com).
 
 Please take into account that I hardly know what I'm doing. Hope it works for you. This is being released for the sole purpose of testing how designing themes for Nova work; no infringements are intended; also, I might be tweaking this theme frequently, as I start figuring out how the colour assignments actually work; thus, caveat utilitor.
